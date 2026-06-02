@@ -42,12 +42,6 @@ Streamlit Dashboard
 
 | Path | Purpose |
 |---|---|
-| `docs/original-project-readme.md` | Original project README snapshot |
-| `docs/postgres-vs-mongodb.md` | Database comparison notes |
-| `docs/Rapport_BDA_projet.pdf` | Final academic report |
-| `docs/presentation_SIEM.pdf` | Presentation PDF |
-| `docs/guide_presentation.*` | Presentation guide |
-| `docs/cheatsheet_1page.*` | One-page review sheet |
 | `screenshots/architecture.png` | Architecture diagram |
 | `screenshots/mcd.png` | Data model diagram |
 | `screenshots/dashboard_*.png` | Dashboard captures |
